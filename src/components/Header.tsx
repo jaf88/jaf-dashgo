@@ -1,5 +1,4 @@
 import { Flex, Text, Input, Icon, HStack, Box, Avatar } from '@chakra-ui/react';
-import React from 'react';
 import { RiNotificationLine, RiSearchLine, RiUserAddLine } from 'react-icons/ri';
 
 export function Header() {
